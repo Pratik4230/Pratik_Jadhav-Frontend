@@ -1,8 +1,51 @@
-# React + Vite
+---
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Setup Instructions
 
-Currently, two official plugins are available:
+### 1. Clone the Repository
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Start by cloning the repository to your local machine:
+
+```bash
+git clone https://github.com/Pratik4230/Pratik_Jadhav-Frontend.git
+```
+
+
+### 2. Navigate to the Project Directory
+
+Move into the project folder:
+
+```bash
+cd Pratik_Jadhav-Frontend
+```
+
+
+### 3. Install Dependencies
+
+Install all required packages using npm :
+
+```bash
+npm install
+```
+
+
+
+### 5. Run the Development Server
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+
+The application will start running on `http://localhost:5173` by default. Open this URL in your browser to access the app.
+
+---
+
+## Available Scripts
+
+- `npm run dev` : Starts the development server.
+- `npm run build` : Builds the application for production.
+
+---
